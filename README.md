@@ -3,7 +3,7 @@ forcelyma.github.io
   <!DOCTYPE >
 <html> 
 <head>
-<title> Quiz de entretenimento
+<title> Quiz de:
 </title>
 </head> 
 <body>
