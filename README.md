@@ -1,7 +1,6 @@
 forcelyma.github.io
 ===================
-<!DOCTYPE html> 
- <!DOCTYPE >
+  <!DOCTYPE >
 <html> 
 <head>
 <title> quiz de entretenimento
