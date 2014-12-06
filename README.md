@@ -3,19 +3,19 @@ forcelyma.github.io
   <!DOCTYPE >
 <html> 
 <head>
-<title> quiz de entretenimento
+<title> Quiz de entretenimento
 </title>
 </head> 
 <body>
-<h1> quiz de entretenimento</h1>
+<h1> Quiz de entretenimento</h1>
 <img src= "http://gamefone.com.br/wp-content/uploads/2014/05/capa-P4.png" />
 
 
-<a href="https://github.com/forcelyma"> caso queira visitar minha página </a>
+<a href="https://github.com/forcelyma"> Caso queira visitar minha página </a>
 
-<p> uma forma de passar o tempo </p>
-<p> uma forma de entretenimento </p>
-<p> uma forma de enrriquecer nossos conhecimentos </p>
+<p> Uma forma de passar o tempo </p>
+<p> Uma forma de entretenimento </p>
+<p> Uma forma de enriquecer nossos conhecimentos </p>
 </body>
 
 </html>
