@@ -3,11 +3,11 @@ forcelyma.github.io
   <!DOCTYPE >
 <html> 
 <head>
-<title> Quiz de:
+<title> 
 </title>
 </head> 
 <body>
-<h1> Quiz de entretenimento</h1>
+<h1> Quiz de:</h1>
 <img src= "http://gamefone.com.br/wp-content/uploads/2014/05/capa-P4.png" />
 
 
